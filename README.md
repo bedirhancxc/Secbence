@@ -22,6 +22,10 @@
 | 2026 telefon modellerini incelemek | [2026 telefon modelleri](https://secbence.com/telefon-modelleri-2026) |
 | Puanlamayı anlamak | [Değerlendirme metodolojisi](https://secbence.com/metodoloji) |
 
+## Ücretsiz rehber
+
+Telefon seçerken hangi özellikleri değerlendireceğinizi açıklayan [ayrıntılı telefon karşılaştırma ve seçim rehberimizi](rehberler/telefon-karsilastirma-ve-secim-rehberi.md) okuyabilirsiniz.
+
 ## Telefonları karşılaştırırken nelere bakmalı?
 
 Sadece tek bir teknik değer üzerinden karar vermek yerine kullanım amacınızı belirleyin. Oyun için işlemci ve grafik performansı, fotoğraf için sensör ve kamera özellikleri, uzun kullanım için pil kapasitesi ve şarj, günlük kullanım için ekran ve yazılım desteği önemlidir.
